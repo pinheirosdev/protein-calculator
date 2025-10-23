@@ -4,7 +4,7 @@
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-p-5b1585265)
   [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@PinheirosDev)
 
-  <h1 align="center">🍗 Calculadora de Proteínas - Website</h1>
+  <h1 align="center">🍗 Calculadora de Proteínas</h1>
 
   > Website de calculadora nutricional totalmente responsivo, construído com React.js e Tailwind CSS.
 
